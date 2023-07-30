@@ -16,6 +16,7 @@ Then, download or clone the repository.
 ## Configuration
 
 To configure, rename `.env.example` to `.env` and change the appropriate values. For advanced configuration edit `envvar_config.yaml`.
+The `SPOTIFYCLIENT`,`SPOTIFYSECRET`, and `YOUTUBE_API_KEY` must be filled in. More details below in Configuring. 
 
 ## Running
 
